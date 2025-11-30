@@ -1,0 +1,25 @@
+baseURL = 'http://Cml-Drmz.github.io/'
+languageCode = 'en-us'
+title = 'Sarah Helmbrecht'
+theme = 'ananke'
+
+SectionPagesMenu = 'main'
+googleAnalytics = ''
+enableRobotsTXT = true
+disqusShortname = "[my_disqus_shortname]"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = "black"
+  author = "Sarah Helmbrecht"
+  description = "An academic portfolio and blog."
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  read_more_copy = "Read More"
+
+[pagination]
+  pagerSize = 6
